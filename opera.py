@@ -1,4 +1,4 @@
-# Nou programa amb operacions
+Nou programa amb operacions
 def suma(a,b):
     pass
 
